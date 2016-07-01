@@ -3,7 +3,7 @@
 
 ##はじめに
 
-このプロジェクトは[sdblog.info](http://www.sdblog.info/webjava)で書いている[「新人エンジニアが学ぶべきWeb系Javaシステムの基礎と連携」](http://www.sdblog.info/webjava)のサンプルコード集です。
+このプロジェクトは[sdblog.info](http://www.sdblog.info)で書いている[「新人エンジニアが学ぶべきWeb系Javaシステムの基礎と連携」](http://www.sdblog.info/webjava)のサンプルコード集です。
 そのままEclipseで落とせば使えるようにしようかと思っています。
 
 ##Licence
