@@ -1,4 +1,4 @@
-package jp.co.sdblog.Example1_1;
+package jp.co.sdblog.Example1;
 
 public class HelloWorldJava {
 
